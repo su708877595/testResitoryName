@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 create new file qqqqqqqqqqqqqqqqqqqqqqjkj
 create new fissssass
 ssss
 creasssste new file qqqqqqqqqqqqqqqqqqqqqq
 create nssew fissssass
+=======
+create new file
+>>>>>>> parent of 884e48e... linux new
